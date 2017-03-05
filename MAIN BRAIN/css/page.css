@@ -1,0 +1,43 @@
+html {overflow-y: scroll;}
+body{
+	background-color:lightblue;
+	text-align:center-right;
+	font-family:helvetica,Aria,sans-serif;
+}
+#container{
+	background-color:(ground.jpg);
+	margin-top:50px;
+	max-width:1000px;
+	width:66.6667%;
+	min-height:100px;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	text-align:center;
+	border:100px,lightblue;
+	padding:0 1%;
+	
+}
+h1{
+	background-color:brown;
+	color:white;
+	text-align:center;
+	padding:5px;
+	
+}
+h6{
+	text-align:right;
+    padding: 0 20px;
+    background:brown;
+    color:white;
+	
+}
+h2{
+	color:red;
+}
+
+
+	
+
+   
